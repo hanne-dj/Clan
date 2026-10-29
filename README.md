@@ -1,1 +1,1 @@
-![UML-klassendiagram van Speler](speler.svg)
+![UML-klassendiagram van Speler](Speler_UML.jpg)
